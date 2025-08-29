@@ -78,12 +78,35 @@
 
 ---
 
-## 🤝 Let’s Connect  
+## 🤝 Let's Connect & Collaborate!
+  
 
-<a href="mailto:sanjuchowdary.5767@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="linkedin.com/in/sanjosh-vundavalli"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/sanjuchowdary"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  
+
+ 
+  
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+  
+  <br><br>
+  
+  <a href="linkedin.com/in/sanjosh-vundavalli">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000"/>
+  </a>
+  <a href="mailto:sanjuchowdary.5767@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000"/>
+  </a>
+ 
+  <a href="https://github.com/Sanju5767">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000"/>
+  </a>
+ 
+  
+  <br><br>
+  
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1"/>
+   
+</div>
 
 ---
 
-🔥 *“The best way to learn AI is by building real-world AI solutions.”*  
+🔥 *“The key to learning AI lies in building solutions that matter.”*  
